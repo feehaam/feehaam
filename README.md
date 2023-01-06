@@ -52,7 +52,7 @@
             src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"
             alt="feeham" height="30" /></a </p>
 <hr>
-<h3 align="center">Technologies I've mastered</h3>
+<h3 align="center">Technologies I've been working on</h3>
 <p align="center">(Sorted by skill level from left to right)</p>
 <p align="left">
 <h5 align="left">Languages</h5>
