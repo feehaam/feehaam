@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shartaz Yeasar Feeham</h1>
-<h3 align="center">An active developer and a passionate computer science engineer and programmer who loves to write code in different languages and purposes. Skilled with different development platforms. Interested in learning new technologies, systems and DSA and looking forward to join a reputable organization to utilize my skills for the growth of the organization as well as to extend my knowledge with new and emerging technologies.</h3>
+<h1 align="center">Hey there 👋, I'm Shartaz Yeasar Feeham</h1>
+<h3 align="center">An active developer and passionate competitive programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feehaam&label=Profile%20views&color=0e75b6&style=flat"
         alt="feehaam" /> </p>
@@ -15,8 +15,8 @@
 
 - 📫 How to reach me **mdfeeham@gmail.com**
 
-- 📄 Know about my experiences
-[https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link](https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link)
+- 📄 Know more about my skills experiences in my 
+[<h3>resume<h3>](https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
