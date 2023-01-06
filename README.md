@@ -27,6 +27,17 @@
 <a href="https://www.leetcode.com/feeham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="feeham" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">See my programming skills @</h3>
+<p align="left">
+<a href="https://linkedin.com/in/feeham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feeham" height="30" width="40" /></a>
+<a href="https://fb.com/mdfeeham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdfeeham" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/feeham" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="feeham" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/feeham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="feeham" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/feehamszyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="feehamszyr" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/feeham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="feeham" height="30" width="40" /></a>
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
