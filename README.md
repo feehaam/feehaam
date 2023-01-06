@@ -7,7 +7,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a> </p> -->
 
-- 🔭 I’m currently working on [Boikotha](boikotha.netlify.app)
+- 🔭 I’m currently working on a mobile app project. 
 
 - 🌱 I’m currently learning **ASP .NET core**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mdfeeham@gmail.com**
 
-- 📄 Know more about my skills experiences in my [<h4>resume</h4>](https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link)
+- 📄 Know more about my skills experiences in my **[resume](https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
