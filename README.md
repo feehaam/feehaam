@@ -5,11 +5,9 @@
     forward to join a reputable organization to utilize my skills for the growth of the 
     organization as well as to extend my knowledge with new and emerging 
     technologies.</h4>
+    <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=feehaam&label=Profile%20views&color=0e75b6&style=flat"
-        alt="feehaam" /> </p>
-        
-        <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=feehaam&label=Profile%20views&color=0e75b6&style=flat" alt="feehaam" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a> </p> -->
