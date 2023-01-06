@@ -24,13 +24,13 @@
             src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
             alt="feeham" height="30" /></a>
     <a href="https://auth.geeksforgeeks.org/user/feeham/" target="blank"><img align="center"
-            src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png"
-            alt="feeham" height="30" /></a>
+            src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="feeham"
+            height="30" /></a>
     <a href="https://codeforces.com/profile/feehamszyr" target="blank"><img align="center"
             src="https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png" alt="feehamszyr" height="30" /></a>
     <a href="https://www.hackerrank.com/feeham" target="blank"><img align="center"
-       src="https://camo.githubusercontent.com/49e713e1463692beaff7b552eb60511454485659f6131286eeab9db84e91840a/68747470733a2f2f69302e77702e636f6d2f6772616473696e67616d65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30352f3835363737315f3636383232343035333139373834315f313934333639393030395f6f2e706e67"
-            alt="feeham" height="30" /></a>
+            src="https://repository-images.githubusercontent.com/252038286/a3e20f07-cc45-4b8d-85f9-9c7e076ab570"
+            alt="feeham" height="40" /></a>
     <a href="https://www.codechef.com/users/feeham" target="blank"><img align="center"
             src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"
             alt="feeham" height="30" /></a </p>
