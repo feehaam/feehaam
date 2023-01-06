@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **mdfeeham@gmail.com**
 
-- 📄 Know more about my skills experiences in my 
-[<h3>resume<h3>](https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link)
+- 📄 Know more about my skills experiences in my [<h5>resume<h5>](https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
