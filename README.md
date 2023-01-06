@@ -1,11 +1,16 @@
 <h1 align="center">Hey there 👋, I'm Shartaz Yeasar Feeham</h1>
-<h3 align="center">An active developer and passionate competitive programmer</h3>
+<h3 align="center">An active developer and a passionate computer science engineer and programmer who loves to write code 
+    in different languages and purposes. Skilled with different development 
+    platforms. Interested in learning new technologies, systems and DSA and looking 
+    forward to join a reputable organization to utilize my skills for the growth of the 
+    organization as well as to extend my knowledge with new and emerging 
+    technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feehaam&label=Profile%20views&color=0e75b6&style=flat"
         alt="feehaam" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a> </p>
 
 - 🔭 I’m currently working on a mobile app project.
 
