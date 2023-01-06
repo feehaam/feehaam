@@ -17,7 +17,20 @@
 
 - 📄 Know more about my skills experiences in my
 **[resume](https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link)**
+
+<h3 align="left">Get me on</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/feeham" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="feeham" height="30" width="40" /></a>
+    &nbsp;
+    <a href="https://fb.com/mdfeeham" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="mdfeeham" height="30" width="40" /></a>
+</p>
+
 <hr>
+
 <h3 align="center">See my programming skills at</h3>
 <p align="center">
     <a href="https://www.leetcode.com/feeham" target="blank"><img align="center"
@@ -38,17 +51,6 @@
     <a href="https://www.codechef.com/users/feeham" target="blank"><img align="center"
             src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"
             alt="feeham" height="30" /></a </p>
-<hr>
-<h3 align="left">Get me on</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/feeham" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="feeham" height="30" width="40" /></a>
-    &nbsp;
-    <a href="https://fb.com/mdfeeham" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="mdfeeham" height="30" width="40" /></a>
-</p>
 <hr>
 <h3 align="center">Technologies I've mastered</h3>
 <p align="center">(Sorted by skill level from left to right)</p>
