@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feehaam&label=Profile%20views&color=0e75b6&style=flat"
         alt="feehaam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a> </p> -->
 
 - 🔭 I’m currently working on [Boikotha](boikotha.netlify.app)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mdfeeham@gmail.com**
 
-- 📄 Know more about my skills experiences in my [Boikotha](boikotha.netlify.app)
+- 📄 Know more about my skills experiences in my [resume](boikotha.netlify.app)
 
 
 [<h3>resume<h3>](https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link)
