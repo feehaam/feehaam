@@ -36,19 +36,19 @@
 
 <hr>
 
-<h3 align="center">See my programming skills at</h3>
+<h3 align="center">See my problem solving skill at</h3>
 <p align="center">
     <a href="https://www.leetcode.com/feeham" target="blank"><img align="center"
             src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
             alt="feeham" height="25" /></a>
-    &nbsp; &nbsp;
+    <br>
     <a href="https://auth.geeksforgeeks.org/user/feeham/" target="blank"><img align="center"
             src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="feeham"
             height="30" /></a>
     &nbsp; &nbsp;
     <a href="https://codeforces.com/profile/feehamszyr" target="blank"><img align="center"
             src="https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png" alt="feehamszyr" height="30" /></a>
-    &nbsp; &nbsp;
+    <br>
     <a href="https://www.hackerrank.com/feeham" target="blank"><img align="center"
             src="https://repository-images.githubusercontent.com/252038286/a3e20f07-cc45-4b8d-85f9-9c7e076ab570"
             alt="feeham" height="40" /></a>
