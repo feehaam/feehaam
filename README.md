@@ -17,7 +17,7 @@
 
 - 📄 Know more about my skills experiences in my **[resume](https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">See my programming skills @</h3>
 <p align="left">
 <a href="https://linkedin.com/in/feeham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feeham" height="30" width="40" /></a>
 <a href="https://fb.com/mdfeeham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdfeeham" height="30" width="40" /></a>
