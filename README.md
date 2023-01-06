@@ -61,10 +61,13 @@
 <p align="center">(Sorted by skill level from left to right)</p>
 <p align="left">
 <h5 align="left">Languages</h5>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="cplusplus" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+        <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="cplusplus" width="40" height="40" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+        </p>
 <h5 align="left">Front end</h5>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
