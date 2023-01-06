@@ -60,41 +60,38 @@
 <h3 align="center">Technologies I've been working on</h3>
 <p align="center">(Sorted by skill level from left to right)</p>
 <p align="left">
-<h5 align="left">Languages</h5>
-        <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="cplusplus" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+<h5 align="left">Languages</h5><p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="cplusplus" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-        </p>
-<h5 align="left">Front end</h5>
+</p><h5 align="left">Front end</h5><p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-<h5 align="left">Back end & Other frameworks</h5>
+</p><h5 align="left">Back end & Other frameworks</h5><p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-<h5 align="left">Database & BaaS</h5>
+</p><h5 align="left">Database & BaaS</h5><p>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-<h5 align="left">Moblie application development</h5>
+</p><h5 align="left">Moblie application development</h5><p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-<h5 align="left">Testing</h5>
+</p><h5 align="left">Testing</h5><p>
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-<h5 align="left">Other tools</h5>
+</p><h5 align="left">Other tools</h5><p>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-</p>
+</p></p>
 
 
 <hr>
