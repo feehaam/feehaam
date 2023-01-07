@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Shartaz Yeasar Feeham</h1>
-<h4 align="center">An active developer and a passionate programmer who loves to write code 
+<h4 align="center">An active developer and a passionate programmer who love to write code 
     in different languages and purposes. Skilled with different development 
     platforms, interested in learning new technologies, systems and DSA; and looking 
     forward to join a reputable organization to utilize my skills for the growth of the 
