@@ -14,14 +14,14 @@
 
 - 🔭 I’m currently working on a mobile app project.
 
-- 🌱 I’m currently learning **ASP .NET core**
+- 🌱 I’m currently learning **ASP .NET core.**
 
-- 💬 Ask me about **DSA, Java, React**
+- 💬 Ask me about **DSA, Java, React.**
 
 - 📫 How to reach me **mdfeeham@gmail.com**
 
 - 📄 Know more about my skills & experiences in my
-**[resume](https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link)**
+**[resume](https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link)**.
 
 <h3 align="left">Get me on</h3>
 <p align="left">
