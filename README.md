@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mdfeeham@gmail.com**
 
-- 📄 Know more about my skills experiences in my
+- 📄 Know more about my skills & experiences in my
 **[resume](https://drive.google.com/file/d/1ndXzPSvLL-fgvSUqYkEU_WDQahUJ4vVt/view?usp=share_link)**
 
 <h3 align="left">Get me on</h3>
